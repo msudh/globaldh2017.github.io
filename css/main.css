@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-size: 1.5em;
 }
 nav ul, footer ul {
     font-family:'Montserrat', 'Arial', 'Sans-Serif';
@@ -13,22 +14,22 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #00723F;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #00723F;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #00723F;
     font-size: .8em;
 }
 

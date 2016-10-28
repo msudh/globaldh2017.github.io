@@ -1,3 +1,4 @@
 name: Global Digital Humanities Symposium
+description: Michigan State University, 2017
 markdown: kramdown
 permalink: /updates/:year/:month/:day/:title

@@ -2,12 +2,15 @@
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
+			<subtitle>{{ page.subtitle }}</subtitle>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
+				<h1 class="title"><a href="/">{{ site.title }}</a></h1>
+      				<h2 class="subtitle">{{ site.subtitle }}</h2>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>
 				<li><a href="/cfp">Call for Proposals</a></li>
